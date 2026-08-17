@@ -1,125 +1,321 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=CHANDU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18"/>
+
 # 👋 Hi, I'm Chandu
 
-### 🎓 Student | 💻 Developer | 🤖 AI/ML Enthusiast
+### `GSChakradhar`
 
-I'm a student passionate about **programming, problem solving, artificial intelligence, data, and creative design**. I enjoy building practical projects and continuously improving my technical skills.
+**Student • Developer • Problem Solver • AI/ML Explorer**
 
----
+<a href="https://github.com/GSChakradhar">
+<img src="https://img.shields.io/badge/GitHub-GSChakradhar-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 🚀 About Me
-
-* 🎓 Student focused on building strong technical skills
-* 💻 Interested in software development and programming
-* 🤖 Exploring Artificial Intelligence and Machine Learning
-* 📊 Interested in data cleaning and data visualization
-* 🎨 Passionate about graphic design and logo creation
-* 🧠 Continuously improving problem-solving and DSA skills
-* 🚀 Building projects to turn ideas into working software
+</div>
 
 ---
 
-## 🛠️ Tech & Skills
+<div align="center">
+
+### ⚡ Turning ideas into working software
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   💻 CODE        🧠 SOLVE        🤖 EXPLORE        🚀 BUILD  │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+Name        → Chandu
+Role        → Student / Developer
+Focus       → Programming • AI/ML • Data • Web
+Mindset     → Learn → Build → Improve
+```
+
+I'm a student passionate about **software development, programming, artificial intelligence, data, and problem solving**.
+
+I enjoy building projects from scratch, experimenting with technologies, solving programming problems, and continuously improving my technical skills.
+
+My goal is to turn ideas into **useful, practical, real-world applications**.
+
+---
+
+## 🧰 Tech Stack
 
 ### 💻 Programming & Web
 
-* Java
-* Python
-* HTML
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,html,git,github,vscode" />
+</p>
 
-### 🧠 Computer Science
+### 🤖 AI / ML & Data
 
-* Problem Solving
-* Data Structures & Algorithms
-* Programming Fundamentals
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-### 📊 Data
+**Data Skills**
 
-* Data Cleaning
-* Data Visualization
-* Data Entry
+`Data Cleaning` · `Data Visualization` · `Data Entry` · `Data Analysis`
 
-### 🎨 Creative
+### 🎨 Creative Skills
 
-* Graphic Design
-* Logo Creation
+`Graphic Design` · `Logo Creation` · `Visual Design`
 
----
+### 🧠 Core Skills
 
-## 🚀 Featured Projects
-
-### 🎤 AI Karaoke using Computer Vision
-
-A real-time karaoke project developed using Python that combines video recording, voice capture, background music playback, and audio-video synchronization.
-
-**Tech:** Python • Computer Vision • Audio/Video Processing
+`Problem Solving` · `DSA` · `Programming Fundamentals`
 
 ---
 
-### 🚗 Driver Drowsiness Detection
+# 🚀 Featured Projects
 
-A machine-learning based project designed to detect driver drowsiness using Python libraries, models, and labeled data.
+<table>
+<tr>
 
-**Tech:** Python • Machine Learning • Keras
-
----
-
-### 🤟 Sign Language Detection using ML
-
-A machine-learning project focused on recognizing sign language using Python and machine-learning techniques.
-
-**Tech:** Python • Machine Learning
-
----
+<td width="50%">
 
 ### 📚 StudyHub
 
-A study-focused website designed to help students organize and access their learning resources in one place.
+A study-focused website designed to help students organize and access learning resources in one place.
 
-**Tech:** HTML • Web Development
+**Stack**
+
+`HTML` · `Web Development`
+
+</td>
+
+<td width="50%">
+
+### 🎤 AI Karaoke
+
+A real-time karaoke system combining video recording, voice capture, background music playback, and audio-video synchronization.
+
+**Stack**
+
+`Python` · `Computer Vision` · `Audio/Video`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🚗 Driver Drowsiness Detection
+
+A machine-learning project designed to detect driver drowsiness using Python, machine-learning models, and labeled data.
+
+**Stack**
+
+`Python` · `Machine Learning` · `Keras`
+
+</td>
+
+<td width="50%">
+
+### 🤟 Sign Language Detection
+
+A machine-learning project focused on recognizing sign language using Python and machine-learning techniques.
+
+**Stack**
+
+`Python` · `Machine Learning`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+# 📊 GitHub Analytics
 
-* Data Structures & Algorithms
-* Java
-* Python
-* Machine Learning
-* Web Development
-* Data Analysis
-* Problem Solving
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GSChakradhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSChakradhar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🎯 My Goals
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GSChakradhar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 My Learning Journey
 
 ```text
-Learn → Build → Practice → Improve → Repeat
+                    CURRENT FOCUS
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+       Java           Python          DSA
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                    Problem Solving
+                         │
+             ┌───────────┴───────────┐
+             ↓                       ↓
+         AI / ML                Web Development
+             │                       │
+             └───────────┬───────────┘
+                         ↓
+                  Real-World Projects
 ```
-
-My goal is to become a strong software developer by combining **programming, problem solving, AI/ML, data, and creativity** to build useful real-world applications.
 
 ---
 
-## 💡 What I Like Building
+# 📚 Currently Learning
+
+<div align="center">
+
+| Area      | Focus                        |
+| --------- | ---------------------------- |
+| ☕ Java    | Programming & DSA            |
+| 🐍 Python | Programming & Data           |
+| 🧠 DSA    | Algorithms & Problem Solving |
+| 🤖 AI/ML  | Machine Learning             |
+| 🌐 Web    | Web Development              |
+| 📊 Data   | Cleaning & Visualization     |
+
+</div>
+
+---
+
+Goals
 
 ```text
-🤖 AI & ML Projects
-🌐 Web Applications
-📊 Data Projects
-💻 Programming Projects
-🎨 Designs & Logos
-📚 Educational Tools
+[████████░░] Strengthen Java & DSA
+
+[███████░░░] Build more real-world projects
+
+[██████░░░░] Improve Python & Data skills
+
+[█████░░░░░] Explore AI / ML
+
+[████░░░░░░] Improve problem solving
 ```
 
 ---
 
-## 📈 GitHub Journey
+# 🧠 Problem Solving
 
-I'm continuously working on new projects, practicing programming problems, and expanding my knowledge across software development, AI/ML, data, and design.
+### Algorithms I'm Learning
+
+```text
+✓ Linear Search
+✓ Binary Search
+✓ Bubble Sort
+✓ Selection Sort
+✓ Insertion Sort
+→ Merge Sort
+→ Quick Sort
+→ Heap Sort
+→ Advanced DSA
+```
+
+My approach:
+
+```text
+                    PROBLEM
+                       ↓
+                  UNDERSTAND
+                       ↓
+                   ANALYZE
+                       ↓
+                  WRITE CODE
+                       ↓
+                    TEST
+                       ↓
+                  OPTIMIZE
+                       ↓
+                    LEARN
+```
 
 ---
+
+# 🛠️ What I Like Building
+
+<div align="center">
+
+🤖 **AI / ML Applications**
+
+🌐 **Web Applications**
+
+📊 **Data Projects**
+
+💻 **Programming Projects**
+
+📚 **Educational Tools**
+
+🎨 **Creative Designs**
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+```text
+LEARN
+  ↓
+PRACTICE
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT 🚀
+```
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/GSChakradhar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-**Keep learning. Keep building. Keep improving. 🚀**
+**Keep Learning • Keep Building • Keep Improving**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
